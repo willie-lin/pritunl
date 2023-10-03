@@ -7,7 +7,7 @@ boto==2.49.0
 boto3==1.21.16
 oci==2.60.0
 requests==2.27.1
-urllib3==1.26.8
+urllib3==1.26.17
 redis==4.1.4
 psutil==5.9.0
 python-iptables==1.0.0
